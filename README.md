@@ -32,8 +32,8 @@ I'm a passionate full-stack developer specializing in building scalable web appl
 
 #### 🌐 Web Tools
 - **[queryjson](https://github.com/dinesh-it/queryjson)** - Transform, query, and explore JSON data with an interactive table viewer and SQL queries powered by PGLite (JavaScript) ⭐ 2
-- **Simple Invoice** - Privacy-focused, browser-based invoice generator with multi-currency support
-- **PostgreSQL Playground** - In-browser SQL terminal using PGlite
+- **[Simple Invoice](https://simple-invoice.pages.dev)** - Privacy-focused, browser-based invoice generator with multi-currency support
+- **[PostgreSQL Playground](https://www.dineshdtech.in/pglite_playground.html)** - In-browser SQL terminal using [PGlite](https://pglite.dev/) - a full Postgres database locally in WASM with reactivity and live sync
 
 #### 🔧 Developer Tools
 - **[my-light](https://github.com/dinesh-it/my-light)** - Python script to control smart bulbs from command line using TinyTuya Library, supporting Wipro & Amazon Basics bulbs (Python) ⭐ 9
@@ -41,16 +41,15 @@ I'm a passionate full-stack developer specializing in building scalable web appl
 - **[www-google-drive](https://github.com/dinesh-it/www-google-drive)** - Extended CPAN module for Google Drive using JSON WebToken authentication (Perl) ⭐ 1
 
 #### 📱 Mobile Apps
-- **[Travels-Management-System](https://github.com/dinesh-it/Travels-Management-System)** - Open source travels and repairs management system for auto/vehicle workshops (Java) ⭐ 1
+- **[Travels-Management-System](https://github.com/dinesh-it/Travels-Management-System)** - Depricated - Open source travels and repairs management system for auto/vehicle workshops (Java) ⭐ 1
 - **Home Diary** - Android app for household management (milk tracking, todos, expenses)
 - **CashCounter** - Mobile denomination counter with multi-language support
 - **EB Bill Calculator** - Tamil Nadu electricity bill calculator and tracker
 
 #### 🔄 Data Tools
-- **QueryJSON** - Data conversion tool supporting JSON, XML, CSV formats
+- **QueryJSON** - Data conversion tool supporting JSON, XML, CSV formats - Transform, query, and explore data entirely in your browser. No backend, no data uploads - 100% private and secure.
 
 ### Personal Interests
-
 Passionate about IoT, home automation, renewable energy, and sustainable living practices including off-grid solar setup and rainwater harvesting systems.
 
 ### GitHub Stats
